@@ -30,7 +30,7 @@ Gives higher importance to recent reviews:
 ```python
 def time_based_weighted_average(dataframe, w1=50, w2=25, w3=15, w4=10):
     ...
-
+```
 ### 2️⃣ Review Scoring
 
 Calculates review reliability using three key metrics:
