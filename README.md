@@ -31,7 +31,7 @@ Gives higher importance to recent reviews:
 def time_based_weighted_average(dataframe, w1=50, w2=25, w3=15, w4=10):
     ...
 
-## 2️⃣ Review Scoring
+### 2️⃣ Review Scoring
 
 Calculates review reliability using three key metrics:
 
@@ -54,6 +54,16 @@ This project demonstrates how combining **statistical confidence** with **recenc
 It enhances transparency and helps customers make better purchasing decisions.
 
 ---
+
+## 👩‍💻 Author
+
+**Sinem Elif Elma**  
+🎓 Data Analyst | Mathematics Educator | Researcher  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sinem-elif-elma-bab7579b/)  
+
+📘 **Medium Article:** [link here]  
+📊 **Kaggle Notebook:** [link here]
+
 
 ## 👩‍💻 Author
 
