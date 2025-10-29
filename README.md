@@ -61,5 +61,5 @@ It enhances transparency and helps customers make better purchasing decisions.
 🎓 Data Analyst | Mathematics Educator | Researcher  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sinem-elif-elma-bab7579b/)  
 
-📘 **Medium Article:** [(https://medium.com/@sinemelifelma/rating-products-and-sorting-reviews-on-amazon-using-python-58f98075c902)]  
-📊 **Kaggle Notebook:** [(https://www.kaggle.com/code/sinemelifelma/rating-product-sorting-reviews-in-amazon)]
+📘 **Medium Article:** [[Rating Products and Sorting Reviews on Amazon Using Python](https://medium.com/@sinemelifelma/rating-products-and-sorting-reviews-on-amazon-using-python-58f98075c902)]  
+📊 **Kaggle Notebook:** [[Rating Product & Sorting Reviews in Amazon](https://www.kaggle.com/code/sinemelifelma/rating-product-sorting-reviews-in-amazon)]
