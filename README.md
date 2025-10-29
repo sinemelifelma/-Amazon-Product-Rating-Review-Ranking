@@ -61,15 +61,5 @@ It enhances transparency and helps customers make better purchasing decisions.
 🎓 Data Analyst | Mathematics Educator | Researcher  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sinem-elif-elma-bab7579b/)  
 
-📘 **Medium Article:** [link here]  
-📊 **Kaggle Notebook:** [link here]
-
-
-## 👩‍💻 Author
-
-**Sinem Elif Elma**  
-🎓 Data Analyst | Mathematics Educator | Researcher  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sinem-elif-elma-bab7579b/)  
-
 📘 **Medium Article:** [(https://medium.com/@sinemelifelma/rating-products-and-sorting-reviews-on-amazon-using-python-58f98075c902)]  
 📊 **Kaggle Notebook:** [(https://www.kaggle.com/code/sinemelifelma/rating-product-sorting-reviews-in-amazon)]
